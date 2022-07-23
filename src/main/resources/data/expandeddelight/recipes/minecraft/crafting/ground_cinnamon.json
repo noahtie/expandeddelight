@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "expandeddelight:cinnamon_sapling"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:ground_cinnamon",
+    "count": 1
+  }
+}
